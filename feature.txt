@@ -1,1 +1,3 @@
-this is the feature that has been commited 
+
+this is the that will be eventually commited
+>>>>>>> feature
